@@ -1,0 +1,18 @@
+.container-login{
+  
+	padding: 150px;
+	padding-bottom: 150px;
+	background: #c3c3c3;
+}
+.row-login{
+
+	padding: 30px;
+	background: #fff;
+	border-radius: 6px;
+}
+.centered{
+
+	margin:0 auto !important ;
+	float: none !important ;
+
+}
